@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jackie</h1>
 
 - 🔭 I’m currently working with Rails but still
 open for any chances to learning new things.
