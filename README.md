@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jackiedo91&label=Profile%20views&color=0e75b6&style=flat" alt="jackiedo91" /> </p>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working with Rails but still
