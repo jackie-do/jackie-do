@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working with Rails but still
 open for any chances to learning new things.
-- 🌱 I’m learning about AWS, GCP to be solid in DevOps field
+- 🌱 I’m interesting with DevOps tools and take a little bit of time for them.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackie-do&label=Profile%20views&color=0e75b6&style=flat" alt="jackie-do" /> </p>
